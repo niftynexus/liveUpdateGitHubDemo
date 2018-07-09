@@ -1,0 +1,8 @@
+{
+  "name": "liveUpdateTest",
+  "app_id": "ffeca054",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
